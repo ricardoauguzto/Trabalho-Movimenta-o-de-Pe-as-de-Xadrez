@@ -8,13 +8,6 @@ Este projeto simula a **movimentação das peças de xadrez** em um tabuleiro vi
 
 ---
 
-## 🎬 Demonstração
-
-![Demonstração do Xadrez](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-> Exemplo ilustrativo da simulação de movimentos no console.
-
----
-
 ## 🟢 Nível Novato
 - **Peças simuladas:** Torre, Bispo e Rainha  
 - **Funcionalidades:**
